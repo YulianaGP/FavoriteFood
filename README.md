@@ -21,3 +21,6 @@
 <img src="https://i.ytimg.com/vi/Pw9bNnx9iZA/maxresdefault.jpg" alt="Seco-Chavelo" height="350" />
 
 [Cómo se prepara](https://www.youtube.com/watch?v=OYI_va8IHrg)
+
+**Vamos acompañar este delicioso plato con la Chicha de Jora**
+[Chicha De Jora](https://yulianagp.github.io/FavoriteFood/ChichaDeJora)
